@@ -1,1 +1,1 @@
-# auto-python
+# Everyday-scripts
